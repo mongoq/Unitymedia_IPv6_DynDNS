@@ -2,5 +2,6 @@
 IPv6 Dynamic DNS (Linux) **kostenlos**
 
 TODO: 
-* Dirk_sowieso Lösung
-* ... Anleitung wiederfinden (!)
+* https://blog.sengotta.net/server-hinter-unitymedia-ds-lite-anschluss-betreiben/
+* c't UDP Lösung
+* ipv6 mit kostenlosem DynDNS (wiederfinden!)
