@@ -1,7 +1,7 @@
-# Unitymedia_IPv6_DynDns
-IPv6 Dynamic DNS (Linux) **kostenlos**
+# Unitymedia IPv6 DynDns
+IPv6 Dynamic DNS (Linux)
 
 TODO: 
 * https://blog.sengotta.net/server-hinter-unitymedia-ds-lite-anschluss-betreiben/
-* c't UDP Lösung
-* ipv6 mit kostenlosem DynDNS (wiederfinden!)
+* c't UDP Solution (TODO)
+* Try https://dynv6.com
